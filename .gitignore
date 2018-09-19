@@ -16,6 +16,30 @@
 
 # Unity3D generated meta files
 *.pidb.meta
+*.meta
 
 # Unity3D Generated File On Crash Reports
 sysinfo.txt
+
+# Third party
+Assets/SMPL/
+Python/ThirdParty/AlphaPosePytorch/models/
+Python/ThirdParty/hmr/models/
+Python/ThirdParty/AlphaPosePytorch/results/
+Python/ThirdParty/densepose/results/
+Python/ThirdParty/hmr/results/
+
+# Python
+__pycache__/
+*.pyc
+*.pkl
+
+# 3D models
+*.obj
+*.fbx
+
+# Images and videos
+*.png
+*.tif
+*.mp4
+*.avi
