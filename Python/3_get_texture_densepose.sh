@@ -8,3 +8,4 @@ python2 tools/infer_simple.py \
 --image-ext png \
 --wts "DensePoseData/weights/DensePose_ResNet101_FPN_s1x-e2e.pkl" \
 "DensePoseData/input_data/"
+python2 get_texture.py

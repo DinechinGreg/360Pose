@@ -21,6 +21,9 @@
 # Unity3D Generated File On Crash Reports
 sysinfo.txt
 
+# Unity3D
+*.mat
+
 # Third party
 Assets/SMPL/
 Python/ThirdParty/AlphaPosePytorch/models/
@@ -33,13 +36,17 @@ Python/ThirdParty/hmr/results/
 __pycache__/
 *.pyc
 *.pkl
+*.ipynb
 
 # 3D models
 *.obj
 *.fbx
+*.blend
+*.blend1
 
-# Images and videos
+# Images, videos, audio
 *.png
 *.tif
 *.mp4
 *.avi
+*.wav
