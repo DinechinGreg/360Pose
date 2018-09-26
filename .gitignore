@@ -25,7 +25,9 @@ sysinfo.txt
 *.mat
 
 # Third party
+Assets/Raw Mocap Data/
 Assets/SMPL/
+Assets/SteamVR/
 Python/ThirdParty/AlphaPosePytorch/models/
 Python/ThirdParty/hmr/models/
 Python/ThirdParty/AlphaPosePytorch/results/
